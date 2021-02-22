@@ -8,7 +8,7 @@ sites:
   - name: LunarDreams (Principale)
     url: https://lunardreams.fr
   - name: LunarDreams (Domaine de repli)
-    url: https://lunard.ynh.fr/
+    url: https://lunard.ynh.fr/yunohost/
   - name: Routeur
     url: $IPBOX
 
