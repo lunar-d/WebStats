@@ -22,13 +22,15 @@ status-website:
   
   # Etat des services disponibles sur lunardreams.fr alimenté par Upptime.
   # Si l'un des services ne réponds pas merci de me contacter sur GitHub ou par mail.
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Etats des services disponibles sur [**lunardreams.fr**](https://lunardreams.fr) alimenté par [Upptime](https://github.com/upptime/upptime)."
+  introMessage: "Si l'un des services ne réponds pas merci de me contacter sur Discord ou par mail."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: LunarDreams
+      href: https://lunardreams.fr
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
