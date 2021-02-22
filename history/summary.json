@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/lunardreams.fr",
     "slug": "lunar-dreams-principale",
     "status": "down",
-    "uptime": "18.91%",
-    "uptimeDay": "18.91%",
-    "uptimeWeek": "18.91%",
-    "uptimeMonth": "18.91%",
-    "uptimeYear": "18.91%",
+    "uptime": "3.05%",
+    "uptimeDay": "3.05%",
+    "uptimeWeek": "3.05%",
+    "uptimeMonth": "3.05%",
+    "uptimeYear": "3.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-22": 2
+      "2021-02-22": 17
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/lunard.ynh.fr",
     "slug": "lunar-dreams-domaine-de-repli",
     "status": "down",
-    "uptime": "22.94%",
-    "uptimeDay": "22.94%",
-    "uptimeWeek": "22.94%",
-    "uptimeMonth": "22.94%",
-    "uptimeYear": "22.94%",
+    "uptime": "2.99%",
+    "uptimeDay": "2.99%",
+    "uptimeWeek": "2.99%",
+    "uptimeMonth": "2.99%",
+    "uptimeYear": "2.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-22": 2
+      "2021-02-22": 16
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "routeur",
     "status": "down",
-    "uptime": "89.24%",
-    "uptimeDay": "89.24%",
-    "uptimeWeek": "89.24%",
-    "uptimeMonth": "89.24%",
-    "uptimeYear": "89.24%",
+    "uptime": "9.23%",
+    "uptimeDay": "9.23%",
+    "uptimeWeek": "9.23%",
+    "uptimeMonth": "9.23%",
+    "uptimeYear": "9.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-22": 0
+      "2021-02-22": 15
     }
   }
 ]
